@@ -1,3 +1,4 @@
 node_modules/
 bin/
 .Ds_store
+package-lock.js
